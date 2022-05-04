@@ -1,0 +1,56 @@
+/* #color-palette{
+
+} */
+
+body {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  background-image: url(./705837.png);
+  margin-top: 20%;
+  margin-bottom: 30%;
+  background-size: cover;
+  text-shadow: 5px 5px white;
+}
+/* Imagem de url retirada do site: https://wall.alphacoders.com/by_sub_category.php?id=209352&name=Pixel+Art+Wallpapers */
+/* Créditos da imagem de background para RythmicSpark */
+
+h1 {
+  color: blue;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+.color {
+  border: 1px solid black;
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+}
+
+.pixel {
+  border: 1px solid black;
+  display: inline-block;
+  background-color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+}
+
+#clear-board {
+  margin: 20px;
+  background-color: lightskyblue;
+  border-radius: 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input {
+  background-color: lightskyblue;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+button {
+  background-color: lightskyblue;
+  padding: 10px;
+  border-radius: 10px;
+}
