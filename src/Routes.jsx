@@ -9,8 +9,8 @@ class Routes extends React.Component {
     return (
       <BrowserRouter>
         <Switch>
-          <Route exact path="/sobremim" component={AboutMe} />
-          <Route exact path="/projetos" component={Projects} />
+          <Route exact path="/aboutme" component={AboutMe} />
+          <Route exact path="/projects" component={Projects} />
           <Route path="/" component={Home}/>
         </Switch>
       </BrowserRouter>

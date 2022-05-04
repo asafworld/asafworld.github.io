@@ -12,9 +12,9 @@ class Header extends React.Component {
           <hr />
           <Link className="Link-to" to="/"> Início </Link>
           <hr />
-          <Link className="Link-to" to="/sobremim"> Sobre Mim </Link>
+          <Link className="Link-to" to="/aboutme"> Sobre Mim </Link>
           <hr />
-          <Link className="Link-to" to="/projetos"> Projetos </Link>
+          <Link className="Link-to" to="/projects"> Projetos </Link>
           <hr />
         </nav>
       </header>
