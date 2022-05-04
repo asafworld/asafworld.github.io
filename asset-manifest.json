@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/asafworld.github.io/static/css/main.e3ebd1d4.css",
-    "main.js": "/asafworld.github.io/static/js/main.e067ba9d.js",
+    "main.js": "/asafworld.github.io/static/js/main.f27390b7.js",
     "static/media/pixels-art-photo.jpg": "/asafworld.github.io/static/media/pixels-art-photo.f81989c92271995f3b48.jpg",
     "static/media/meu-menu.jpg": "/asafworld.github.io/static/media/meu-menu.c84c2c62566095da35ae.jpg",
     "static/media/to-do-list.jpg": "/asafworld.github.io/static/media/to-do-list.2f82124704a0c5d340b5.jpg",
@@ -9,10 +9,10 @@
     "static/media/react-logo.png": "/asafworld.github.io/static/media/react-logo.9911848e6c15b84c4b0c.png",
     "index.html": "/asafworld.github.io/index.html",
     "main.e3ebd1d4.css.map": "/asafworld.github.io/static/css/main.e3ebd1d4.css.map",
-    "main.e067ba9d.js.map": "/asafworld.github.io/static/js/main.e067ba9d.js.map"
+    "main.f27390b7.js.map": "/asafworld.github.io/static/js/main.f27390b7.js.map"
   },
   "entrypoints": [
     "static/css/main.e3ebd1d4.css",
-    "static/js/main.e067ba9d.js"
+    "static/js/main.f27390b7.js"
   ]
 }
