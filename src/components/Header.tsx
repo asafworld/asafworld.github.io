@@ -1,10 +1,7 @@
 import React from "react";
 import { Link } from 'react-router-dom';
-// import Home from "./Home";
-// import AboutMe from "./AboutMe";
 
-class Header extends React.Component {
-  render() {
+const Header: React.FC = () => {
     return (
       <header>
         <h1>Gabriel Asaf</h1>
@@ -12,14 +9,9 @@ class Header extends React.Component {
           <hr />
           <Link className="Link-to" to="/"> Início </Link>
           <hr />
-          <Link className="Link-to" to="/aboutme"> Sobre Mim </Link>
-          <hr />
-          <Link className="Link-to" to="/projects"> Projetos </Link>
-          <hr />
         </nav>
       </header>
     )
-  }
 }
 
 export default Header;

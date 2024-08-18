@@ -1,12 +1,12 @@
-// import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import Routes from './Routes';
 
-function App() {
+const App: React.FC = () => {
   return (
-    <div className="App">
+    <article className="App">
       <Routes />
-    </div>
+    </article>
   );
 }
 
